@@ -4,6 +4,7 @@
    { "id": 2, "title": "Ya esta cerca el fin",  "description": " Ya se viene el final de semestre "},
    { "id": 3, "title": "Inscribete te ayudará",  "description": "Inscribete a el programa de apoyo en transporte"},
    { "id": 4, "title": "Te invitamos",  "description": " Mes de Maria, celebralo con nosotros"},
-   { "id": 5, "title": "hola buenas", "description": "bienvenido a este semestre tan bueno"}
+   { "id": 5, "title": "hola buenas", "description": "bienvenido a este semestre tan bueno"},
+   { "id": 6, "title": "Cambiar Los Anuncios", "description": "Que los Anuncios estén en la APP de Admin"},
    ]
 }
